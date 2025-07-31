@@ -1,24 +1,7 @@
-# README
+# Linq Take Home Test — Sales Engineer
+Hello!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks again for giving me the opportunity to test for this role.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Tradeoffs
+- The instructions mentioned the app should only accept mock authentication, so I created a User model to demonstrate some of the things I'd include.
