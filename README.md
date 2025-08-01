@@ -41,7 +41,7 @@ If you want to test requests to the endpoints, here are your options:
 
     POST "/contacts": adds a contact to the PostgreSQL database with three fields I assumed we needed: first_name, last_name, and email_address
 
-    POST "/auth/login": returns a JWT which encodes basically nothing but a random string. Real JWT auth would be beyond the scope of this project. It saves a JWT token in the user's session so that it persists between calls
+    POST "/auth/login": returns a JWT which encodes basically nothing but a random string. Real JWT auth would be beyond the scope of this project. It saves a JWT token in the user session so that it persists between calls
 
     GET "/auth/login/user": returns the JWT token, or if one doesn't exist, creates the same persistent token they would've gotten with the post action
 ```
