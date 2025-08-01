@@ -5,6 +5,8 @@ Thanks again for giving me the opportunity to test for this role.
 
 Here, I'll mostly detail the reqs and directions for getting this app running on your machine. I'll save my breakdown for the video and Integration Notes file. 
 
+You can view a video breakdown of the app in Loom by [clicking here](https://www.loom.com/share/84516021b3a34cbcac3c7503398e16a8?sid=0cf4e793-d2fd-4524-8d35-64765b536f20).
+
 ## Getting Started
 
 ### Requirements
